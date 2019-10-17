@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b979c29b-0564-40f3-bd78-6345e92b7a72" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/api-python/api-call.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
