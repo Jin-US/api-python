@@ -1,7 +1,7 @@
 import requests
 from urllib.parse import urlparse
 page = 0
-# keyword = input("검색 내용 : ")
+keyword = input("검색 내용 : ")
 
 
 url = "https://api.github.com/search/repositories?q="+ keyword +"&sort=stars&order=desc"
