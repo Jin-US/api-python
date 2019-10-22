@@ -4,7 +4,7 @@ page = 0
 # keyword = input("검색 내용 : ")
 
 
-url = "https://api.github.com/search/repositories?q="+ keyword +"&sort=stars&order=desc" +page
+url = "https://api.github.com/search/repositories?q="+ keyword +"&sort=stars&order=desc"
 result = requests.get(urlparse(url).geturl())
 json_obj = result.json()
 
